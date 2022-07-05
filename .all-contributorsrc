@@ -1,0 +1,52 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "atapas",
+      "name": "Tapas Adhikary",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3633137?v=4",
+      "profile": "https://tapasadhikary.com",
+      "contributions": [
+        "code",
+        "blog"
+      ]
+    },
+    {
+      "login": "chinmaykunkikar",
+      "name": "Chinmay Kunkikar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6230769?v=4",
+      "profile": "https://github.com/chinmaykunkikar",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "jadenpadua",
+      "name": "Jaden Padua",
+      "avatar_url": "https://avatars.githubusercontent.com/u/46204970?v=4",
+      "profile": "http://jadenpadua.com",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "eddiejaoude",
+      "name": "Eddie Jaoude",
+      "avatar_url": "https://avatars.githubusercontent.com/u/624760?v=4",
+      "profile": "http://youtube.com/eddiejaoude?sub_confirmation=1",
+      "contributions": [
+        "bug"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "theme-builder",
+  "projectOwner": "atapas",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
